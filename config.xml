@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "mx.org.gomezpalacio.soporte"
 	version 	= "1.0.0">
 
-	<name>Raudus FishFacts</name>
+	<name>Cetic - Soporte</name>
 
 	<description>
+	Aplicación para el control de soporte tecnico CETIC Gómez Palacio
 	</description>
 
-	<author href="http://www.raudus.com"
-		email="igor@klopov.com">
-		Raudus.com
+	<author href="http://www.gomezpalacio.gob.mx"
+		email="luis.gutierrez@gomezpalacio.gob.mx">
+		Luis Gutierrez
 	</author>
 
 	<gap:platforms>
